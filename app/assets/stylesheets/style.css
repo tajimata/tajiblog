@@ -1,0 +1,86 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+  }
+
+  .nav-wrapper{
+    margin: auto;
+    max-width: 800px;
+    padding: 10px;
+  }
+
+  
+  .brand-logo {
+    height: 60px;
+    width: 60%;
+    position: fixed;
+    padding: 0;
+
+  }
+
+  
+  .contents{
+    /* background-color:pink;  */
+    height: 100%;
+    width: 70%;
+    margin: 0 auto;
+    padding-top: 60px;
+    
+  }
+
+  .contents p{
+    background-color:pink;
+    margin: 0;
+    margin-bottom: 5px;
+    color:white; 
+    height: 80px;
+    /* padding: 20px; */
+    font-size: 35px;
+    /* border : 10px 0px 0px 0px white; */
+    border-bottom:1px solid white ;
+    
+  }
+  
+
+
+/* 
+  .#dce775 lime lighten-2{
+    background-color: red;
+    height: 1000px;
+    width: 300px;
+    z-index: 3;
+  } */
+
+  
+ 
+  /* .contents {
+    background-color: gray;
+    height: 100%;
+    width: 100%;
+  
+  } */
+  
+
+  .h3 {
+    color:white; 
+
+    height: 10px;
+    margin: 20px,;
+    font-size: 20px;
+  }
+
+  input {
+   
+    height: 40px;
+    margin: 10px;
+    font-size: 35px;
+  }
+
+
+  textarea {
+   
+    height: 40px;
+    margin: 10px;
+    font-size: 35px;
+  }
